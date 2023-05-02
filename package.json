@@ -2,9 +2,12 @@
   "name": "@landing/page",
   "version": "0.0.1",
   "private": true,
+  "engines" : { 
+    "node" : "14.17.4"
+  },
   "scripts": {
     "dev": "next dev",
-    "build": "NODE_OPTIONS=--openssl-legacy-provider next build",
+    "build": "next build",
     "serve": "next start",
     "export": "next export",
     "postbuild": "next-sitemap"
