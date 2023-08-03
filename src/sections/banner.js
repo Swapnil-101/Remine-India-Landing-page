@@ -11,7 +11,7 @@ export default function Banner() {
       <Container sx={styles.banner.container}>
         <Box sx={styles.banner.contentBox}>
           <Heading as="h1" variant="heroPrimary">
-            AngelList Talent is now Remine India Private limited
+            Find your next top tech job in 1 week.
           </Heading>
           <Text as="p" variant="heroSecondary">
             A free applicant tracking system, or free integration with any ATS you may already use
