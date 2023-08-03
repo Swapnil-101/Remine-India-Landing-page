@@ -22,8 +22,8 @@ import Smart from 'assets/services/smart.svg';
 import Secure from 'assets/services/secure.svg';
 
 const data = {
-  subTitle: 'our services',
-  title: 'The Goal of E-waste Management is to reduce the Environmental, Social, and Health Impacts of electronic waste',
+  subTitle: 'GOT TALENT?',
+  title: 'Why job seekers love us',
   features: [
     {
       id: 1,
@@ -31,7 +31,7 @@ const data = {
       altText: 'Smart Features',
       title: 'Minimize e-waste generation',
       text:
-        'Encouraging the design and manufacturing of electronic products that are durable, repairable, and recyclable, as well as promoting responsible consumption patterns to reduce unnecessary electronic device purchases.',
+        'Unique jobs at startups and tech companies you cant find anywhere else',
     },
     {
       id: 2,
@@ -39,7 +39,7 @@ const data = {
       altText: 'Secure Contents',
       title: 'Facilitate responsible recycling and disposal',
       text:
-        ' Establishing efficient and environmentally responsible recycling and disposal processes that prioritize safe handling, proper treatment, and environmentally sound disposal of e-waste, in compliance with relevant regulations and guidelines.',
+        ' Say goodbye to cover letters - your profile is all you need. One click to apply and youre done.',
     },
   ],
 };

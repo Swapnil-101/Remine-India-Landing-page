@@ -11,14 +11,10 @@ export default function Banner() {
       <Container sx={styles.banner.container}>
         <Box sx={styles.banner.contentBox}>
           <Heading as="h1" variant="heroPrimary">
-            OVERVIEW - REMINE INDIA PRIVATE LIMITED
+            AngelList Talent is now REMINE INDIA PRIVATE LIMITED
           </Heading>
           <Text as="p" variant="heroSecondary">
-            Remine India Private Limited is an unlisted private company
-            incorporated on 06 December, 2022. It is classified as a private
-            limited company and is located in , UR. It's authorized share
-            capital is INR 10.00 lac and the total paid-up capital is INR 10.00
-            lac.
+            A free applicant tracking system, or free integration with any ATS you may already use
           </Text>
           <Button variant="primary">Explore</Button>
         </Box>
